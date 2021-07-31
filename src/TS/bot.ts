@@ -1,7 +1,7 @@
 // Variables
 const Discord = require('discord.js')
 const fs = require('fs')
-const Token: string = ''
+const Token: string = process.env['TOKEN']
 const Bot = new Discord.Client()
 const Prefix = '.'
 
