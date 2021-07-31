@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "lib": ["ES2021"],
+        "module": "CommonJS",
+        "target": "ES2019",
+        "types": ["Node"],
+        "outDir": ".\\src\\JS",
+        
+        "strict": false,
+        "esModuleInterop": true,
+        "skipLibCheck": true
+    }
+}
