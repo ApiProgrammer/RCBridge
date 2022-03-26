@@ -4,8 +4,7 @@
   "description": "put this in ur roblox game and in game messages will be sent to the channel ur webhook is in",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsc -w"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
