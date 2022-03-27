@@ -1,19 +1,16 @@
 {
-  "name": "RCBridge",
+  "name": "rcbridge",
   "version": "1.0.0",
-  "description": "put this in ur roblox game and in game messages will be sent to the channel ur webhook is in",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^16.4.8",
-    "typescript": "^4.3.5"
-  },
+  "license": "unlicensed",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "@swc/cli": "^0.1.56",
+    "@swc/core": "^1.2.160",
+    "discord.js": "12.5.3"
   }
 }
